@@ -1,0 +1,80 @@
+  CPEPROJECT.firstHeader.resources - Embedded, ContainedInManifestFile, 
+  CPEPROJECT.historyWindow.resources - Embedded, ContainedInManifestFile, 
+  CPEPROJECT.menuWindow.resources - Embedded, ContainedInManifestFile, 
+  CPEPROJECT.prepareWindow.resources - Embedded, ContainedInManifestFile, 
+  CPEPROJECT.serveWindow.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly CPEPROJECT, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC.STLCLR, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String userName : Public
+    System.Collections.Generic.List`1[System.String] orders : Public
+    System.ValueType orderNumber Int32 IsBoxed : Public
+Class CPEPROJECT.historyWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form, System.Windows.Forms.Form, System.Windows.Forms.Form, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form obj : Public
+    System.Windows.Forms.Form obj1 : Public
+    System.Windows.Forms.Form obj2 : Public
+    System.String setter : Public
+  Methods:
+    showLog(String): PrivateScope, Public, HideBySig
+Class CPEPROJECT.serveWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form, System.Windows.Forms.Form, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form obj1 : Public
+    System.Windows.Forms.Form obj2 : Public
+    System.String userName : Public
+    System.String stringPrevious : Public
+  Methods:
+    LoadCSVIntoTextBox1(String): PrivateScope, Public, HideBySig
+Class CPEPROJECT.prepareWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    CPEPROJECT.serveWindow serve1 : Public
+    System.Collections.Generic.List`1[System.String] orders : Public
+    Int32 mealDuration : Public
+    System.Collections.Generic.List`1[System.String] orders1 : Public
+    Int32 mealDuration1 : Public
+    System.Windows.Forms.Timer timer : Public
+    System.Windows.Forms.Timer timer1 : Public
+    Int32 keyUser : Public
+    System.Collections.Generic.List`1[System.Collections.Generic.List`1[System.String]] serving : Public
+    System.Windows.Forms.Form obj : Public
+    System.String userName : Public
+  Methods:
+    SetOrders(List`1, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    UpdateProgressBar(Object, EventArgs): PrivateScope, Public, HideBySig
+    SaveToCSV2(List`1, String): PrivateScope, Public, HideBySig
+    SaveToCSV(List`1, String): PrivateScope, Public, HideBySig
+    AppendSaveToCSV(List`1, String): PrivateScope, Public, HideBySig
+Class CPEPROJECT.menuWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String userName : Public
+Class CPEPROJECT.firstHeader: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

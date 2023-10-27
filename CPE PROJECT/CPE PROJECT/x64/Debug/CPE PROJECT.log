@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CPE PROJECT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  firstHeader.cpp
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\User.h(15,17): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  menuWindow.cpp
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\User.h(15,17): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  prepareWindow.cpp
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\User.h(15,17): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  Generating Code...
+  firstHeader.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CPE PROJECT.vcxproj -> C:\Users\Aaron Abadiano\Source\Repos\KFC\CPE PROJECT\x64\Debug\CPEPROJECT.exe

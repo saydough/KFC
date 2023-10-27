@@ -1,0 +1,14 @@
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPE PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.firstHeader.resources
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.menuWindow.resources
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPE PROJECT.vcxproj.GenerateResource.cache
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.prepareWindow.resources
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.serveWindow.resources
+C:\Users\Aaron Abadiano\source\repos\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.historyWindow.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPE PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.firstHeader.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.historyWindow.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.menuWindow.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.prepareWindow.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPEPROJECT.serveWindow.resources
+C:\Users\Aaron Abadiano\source\repos\KFC\CPE PROJECT\CPE PROJECT\x64\Debug\CPE PROJECT.vcxproj.GenerateResource.cache
